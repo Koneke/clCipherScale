@@ -1,0 +1,13 @@
+Ab-major;Ab,Bb,C,Db,Eb,F,G
+Ab-minor;Ab,Bb,Cb,Db,Eb,Fb,Gb
+A-minor;A,B,C,D,E,F,G
+C-major;C,D,E,F,G,A,B
+C-minor;C,D,Eb,F,G,Ab,Bb
+Cb-major;Cb,Db,Eb,Fb,Gb,Ab,Bb
+E-minor;E,F#,G,A,B,C,D
+Eb-major;Eb,F,G,Ab,Bb,C,D
+Eb-minor;Eb,F,Gb,Ab,Bb,Cb,Db
+F-major;F,G,A,Bb,C,D,E
+F-minor;F,G,Ab,Bb,C,Db,Eb
+F#-major;F#,G#,A#,B,C#,D#,E#
+Gb-major;Gb,Ab,Bb,Cb,Db,Eb,F
